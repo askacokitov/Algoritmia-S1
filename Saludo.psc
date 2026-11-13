@@ -1,13 +1,8 @@
 Algoritmo Saludo
-	Definir nombre Como Caracter
-	
-	//entrada 
-	
-	Escribir  "Escribe tu nombre: "
+	Definir nombre Como Cadena
+	// entrada
+	Escribir 'Escribe tu nombre: '
 	Leer nombre
-	
-	//salida
-	
-	Imprimir "¡Hola " nombre "!"
-
+	// salida
+	Escribir '¡Hola ', nombre, '!'
 FinAlgoritmo
